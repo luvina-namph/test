@@ -1,5 +1,5 @@
 /**
- * class car
+ * class car test
  */
 public class Car {
 	private String name;
